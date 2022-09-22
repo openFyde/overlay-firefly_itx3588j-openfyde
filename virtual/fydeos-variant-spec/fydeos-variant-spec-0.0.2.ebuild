@@ -1,1 +1,0 @@
-fydeos-variant-spec-0.0.1.ebuild

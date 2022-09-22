@@ -11,6 +11,11 @@ SLOT="0"
 KEYWORDS="*"
 IUSE=""
 
-RDEPEND="chromeos-base/chromeos-bsp-firefly_itx3588j"
+RDEPEND="
+  virtual/fydemina
+  chromeos-base/chromeos-bsp-inaugural
+  chromeos-base/chromeos-bsp-inaugural-openfyde
+  chromeos-base/chromeos-bsp-firefly_itx3588j
+"
 
 DEPEND="${RDEPEND}"
